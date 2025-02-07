@@ -1,4 +1,4 @@
-package excecoesCustomizadas;
+package felix.dio.trilhajava.estrutrasexcepcionais.excecoescustomizadas;
 
 public class ExemploFormatadorCep {
     public static void main(String[] args) {
