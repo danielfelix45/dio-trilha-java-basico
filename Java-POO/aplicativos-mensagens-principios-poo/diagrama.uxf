@@ -1,0 +1,12 @@
+<diagram program="umletino" version="15.1"><zoom_level>10</zoom_level><help_text>Space for diagram notes</help_text><element><id>UMLClass</id><coordinates><x>20</x><y>320</y><w>210</w><h>70</h></coordinates><panel_attributes>_MSNMessenger_
+--
+__________________________________________ </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>250</x><y>320</y><w>210</w><h>70</h></coordinates><panel_attributes>_FacebookMessenger_
+--
+__________________________________________ </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>480</x><y>320</y><w>210</w><h>70</h></coordinates><panel_attributes>_Telegram_
+--
+__________________________________________ </panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>250</x><y>120</y><w>210</w><h>70</h></coordinates><panel_attributes>_ServicoMensagemInstantanea_
+--
++ enviarMensagem() : void
++ receberMensagem() : void
++ validarConectadoInternet() : void
++ salvarHistoricoMensagem() : void</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>450</x><y>180</y><w>140</w><h>160</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;120;140</additional_attributes></element><element><id>Relation</id><coordinates><x>350</x><y>180</y><w>30</w><h>160</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;10;140</additional_attributes></element><element><id>Relation</id><coordinates><x>140</x><y>180</y><w>130</w><h>160</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>110;10;10;140</additional_attributes></element></diagram>
